@@ -1,0 +1,15 @@
+{
+  "name": "Player",
+  "created_at": 1760042894.4755003,
+  "last_seen": 1760079332.4195535,
+  "cumulative": {
+    "total": 119,
+    "correct": 56,
+    "score": 269,
+    "streak_best": 4,
+    "sessions": 5
+  },
+  "last_topic": "General Science",
+  "last_difficulty": "Hard",
+  "last_subject": "Science"
+}
